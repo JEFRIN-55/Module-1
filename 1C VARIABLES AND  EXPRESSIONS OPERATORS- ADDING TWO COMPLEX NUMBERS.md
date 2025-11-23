@@ -14,7 +14,7 @@ To write a Python program for adding two complex numbers, and get the user input
 ## PROGRAM
 
 
-```
+```python
 # Reg.No- 212223060104
 # Name- JEFRIN INOLA J
 
